@@ -1,9 +1,7 @@
 const cartWidget = () => {
     return (
-        <button>
-            <img>
-            
-            </img>
+        <button>            
+            <p>aqui va a algo</p>            
         </button>
     );
 };

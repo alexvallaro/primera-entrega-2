@@ -1,8 +1,9 @@
-import cardWidget from "./cartWidget";
+import cartWidget from "./cartWidget";
 
 const navBar = () =>{
     return (
         <div>
+            <p>{greeting}</p>
             <cartWidget />
         </div>
     );
