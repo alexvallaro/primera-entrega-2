@@ -8,7 +8,7 @@ function App() {
     <div className='App'>
       <main>
       <navBar />
-      <itemListContainer greeting={"Hola Mundo"} />            
+      <itemListContainer greeting={"Libreria, el libro"} />            
       </main>   
     </div>
   );
